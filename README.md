@@ -19,3 +19,18 @@ npm install dotenv --save
 
 => Permitir acesso a API [https://www.npmjs.com/package/cors]: 
 npm install cors --save
+
+
+Consumindo a API:
+
+ROTAS:
+
+[POST] '/login' //Fazer login
+
+{
+    "usuario": "manoelps@live.com",
+    "senha": "nodeJS"
+}
+
+
+[GET] '/usuarios' //Listar usuarios
