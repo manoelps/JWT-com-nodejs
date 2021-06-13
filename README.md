@@ -29,7 +29,7 @@ ROTAS:
 
 {
     "usuario": "manoelps@live.com",
-    "senha": "nodeJS"
+    "senha": "123456"
 }
 
 
