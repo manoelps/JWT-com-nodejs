@@ -2,7 +2,7 @@
 
 SEQUENCIA DO PROJETO
 
-=> CRIAR PROJETO: 
+=> Criar Projeto: 
 npm init
 
 => Gerenciar as requisições, rotas e URLs [https://www.npmjs.com/package/express]: 
