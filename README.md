@@ -15,7 +15,5 @@ npm install jsonwebtoken --save
 => Gerencia variáveis de ambiente [https://www.npmjs.com/package/dotenv]
 npm install dotenv --save
 
-=> Permitir acesso a API
+=> Permitir acesso a API [https://www.npmjs.com/package/cors]
 npm install cors --save
-
-=>
